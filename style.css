@@ -133,7 +133,6 @@ link .icon{
 }
 .controls{
   margin: 40px 0 5px 0;
-  color: transparent;
 }
 .controls i{
   font-size: 28px;
@@ -149,18 +148,15 @@ link .icon{
 }
 .controls #prev{
   margin-right: -13px;
-  color: transparent;
 }
 .controls #next{
   margin-left: -13px;
-  color: transparent;
 }
 .controls .play-pause{
   height: 54px;
   width: 54px;
   display: flex;
   cursor: pointer;
-  color: transparent;
   align-items: center;
   justify-content: center;
   border-radius: 50%;
@@ -169,7 +165,6 @@ link .icon{
 }
 .play-pause::before{
   position: absolute;
-  color: transparent;
   content: "";
   height: 43px;
   width: 43px;
@@ -180,7 +175,6 @@ link .icon{
   height: 43px;
   width: 43px;
   line-height: 43px;
-  color: transparent;
   text-align: center;
   background: inherit;
   background-clip: text;
