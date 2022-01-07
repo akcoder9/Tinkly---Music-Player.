@@ -250,6 +250,12 @@ let allMusic = [
     img: "music-40",
     src: "music-40"
   },
+  {
+    name: "Waka Waka.",
+    artist: "",
+    img: "music-41",
+    src: "music-41"
+  },
   // like this paste it and remember to give comma after ending of this bracket }
   // {
   //   name: "Here is the music name",
